@@ -1,6 +1,6 @@
 # What is Box Shadow Creator?
 
-Get perfect shadows every time for the no-designer this is perfect for a quick box shadow solution.
+Get perfect shadows every time for the non-designer this is perfect for a quick box shadow solution.
 
 # Installation
 
