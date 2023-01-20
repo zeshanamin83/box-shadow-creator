@@ -4,7 +4,7 @@ Get perfect shadows every time for the no-designer this is perfect for a quick b
 
 # Installation
 
-`npm i box-shadow-creator`
+`npm i box-shadow-creator --save`
 
 ## Basic usage for JavaScript
 
